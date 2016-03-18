@@ -28,3 +28,4 @@ Gem::Specification.new do |s|
   s.add_development_dependency(%q<minitest>.freeze, ["~> 5.8"])
   s.add_development_dependency(%q<rdoc>.freeze, ["~> 4.0"])
 end
+
